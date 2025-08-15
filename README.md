@@ -23,31 +23,18 @@ build data-driven solutions for:
 
 
 ## 🔗 Important Links
-- **Streamlit App:** [Hosted App Link](#)  
+- **Streamlit App:** [Hosted App Link](https://ol-25-lp-098-yodesmzxvbdyuv3hzgcvdn.streamlit.app/)  
 - **Technical Report:** [Link to Medium Blog](https://medium.com/@vedantpborse/mental-health-in-tech-data-driven-insights-predictions-522de4655438) 
 
 ## Demo  
 
 Watch the project in action:  
 
-- **Streamlit App Demo:** [Click Here to View Demo](#)  
+- **Streamlit App Demo:** [Click Here to View Demo](https://ol-25-lp-098-yodesmzxvbdyuv3hzgcvdn.streamlit.app/)  
 
 ---
-
-### Screenshots  
-- Dashboard Overview
-- EDA Insights  
-- Model Results
-
-
-## Submission Checklist
-- Change the repository name to your OL-ID 
-- Fill in Name, Roll No., OL ID
-- Add links for Notebooks, Streamlit App, and Technical Report
-- Upload screenshots in images/
-- Ensure requirements.txt is complete
-- Push models/ and streamlit/ folders with code
 
 ## Acknowledgements
 - Dataset Source: [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
 - OpenLearn Cohort 1.0 Mentors & Team
+
